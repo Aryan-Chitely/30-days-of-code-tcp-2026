@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Code Fest - NIT RAIPUR</title>
+</head>
+<body>
+    <h1>💻 Code Fest 2026</h1>
+    <p><em>Where learning meets fun!</em></p>
+    <h2>Event Schedule</h2>
+
+    <table border="2" cellpadding="10" cellspacing="3">
+        <thead>
+            <tr>
+                <th>Time</th>
+                <th>Activity</th>
+                <th>Venue</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>09:00 AM - 10:00 AM</td>
+                <td>Inauguration Ceremony</td>
+                <td>HIRA Auditorium</td>
+            </tr>
+            <tr>
+                <td>10:30 AM - 12:00 PM</td>
+                <td>HTML & CSS Hands-on Workshop</td>
+                <td>Lab 1</td>
+            </tr>
+            <tr>
+                <td>01:30 PM - 03:00 PM</td>
+                <td>Java + DSA Problem Solving Workshop</td>
+                <td>Lab 2</td>
+            </tr>
+        </tbody>
+    </table>
+    <h2>Join the Fest!</h2>
+    <p>Fill in your details below to reserve your seat</p>
+
+    <form action="register.html" method="post">
+        <label for="fullname">Full Name:</label><br>
+        <input type="text" id="fullname" name="fullname" placeholder="Enter your name" required>
+        <br><br> 
+        <label for="email">Email Address:</label><br>
+        <input type="email" id="email" name="email" placeholder="example@mail.com" required>
+        <br><br>
+        <label for="year">Academic Year:</label><br>
+        <input type="number" id="year" name="year" min="1" max="5">
+        <br><br>
+        <label for="eventdate">Preferred Event Date:</label><br>
+        <input type="date" id="eventdate" name="eventdate">
+        <br><br>
+        <p><strong>Ticket Type:</strong></p>
+
+        <input type="radio" id="basic" name="ticket" value="basic">
+        <label for="basic">Student Pass</label><br>
+        <input type="radio" id="pro" name="ticket" value="pro">
+        <label for="pro">Faculty Pass</label><br>
+        <input type="radio" id="elite" name="ticket" value="elite">
+        <label for="elite">Guest Pass</label><br><br>
+
+        <p><strong>Workshops You're Excited About:</strong></p>
+        <input type="checkbox" id="frontend" name="workshop" value="frontend">
+        <label for="frontend">Frontend Magic</label>
+        <br>
+        <input type="checkbox" id="java" name="workshop" value="java">
+        <label for="java">Java & DSA</label>
+        <br>
+        <input type="checkbox" id="career" name="workshop" value="career">
+        <label for="career">Career & Resume Tips</label>
+        <br><br>
+        <label for="message">Any message for us?</label><br>
+        <textarea id="message" name="message" rows="4" cols="45" placeholder="Tell us what excites you most!"></textarea>
+        <br><br>
+        <button type="submit">Register Now</button>
+    </form>
+    <hr>
+</body>
+</html>
