@@ -1,0 +1,92 @@
+.topbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+
+.brand {
+    color: var(--primary-color);
+}
+
+.topbar nav {
+    display: flex;
+    gap: 20px;
+}
+
+.topbar nav a {
+    text-decoration: none;
+    color: var(--text-color);
+}
+
+.topbar nav a:hover {
+    color: var(--primary-color);
+}
+
+.hero {
+    text-align: center;
+    padding: 70px 20px;
+}
+
+.hero h2 {
+    animation: fadeUp 1s ease;
+}
+
+@keyframes fadeUp {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.features {
+    display: flex;
+    gap: 20px;
+    padding: 40px 20px;
+    flex-wrap: wrap;
+}
+
+.box {
+    flex: 1;
+    padding: 20px;
+    background: white;
+    border-radius: 8px;
+    transition: transform 0.3s;
+}
+
+.box:hover {
+    transform: scale(1.05);
+}
+
+.pricing {
+    display: flex;
+    gap: 20px;
+    padding: 40px 20px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.price {
+    padding: 25px;
+    background: white;
+    border-radius: 8px;
+    transition: box-shadow 0.3s;
+}
+
+.price:hover {
+    box-shadow: 0 6px 12px rgba(0,0,0,0.1);
+}
+
+.featured {
+    border: 2px solid var(--primary-color);
+}
+
+.footer {
+    text-align: center;
+    padding: 25px;
+    font-size: 0.9rem;
+}
