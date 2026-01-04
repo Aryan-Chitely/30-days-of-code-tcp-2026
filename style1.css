@@ -6,17 +6,16 @@
 }
 
 /* ===== Header ===== */
-cute-header {
-    border-bottom: 1px solid #374151;
+.cute-header {
+    border-bottom: 1px solid #334155;
 }
 
 .cute-header .wrap {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 16px 0;
+    padding: 20px 0;
 }
-
 
 .cute-logo {
     color: var(--primary-color);
@@ -29,30 +28,30 @@ cute-header {
 }
 
 .cute-nav a {
-    color: var(--text-color);
     text-decoration: none;
-    margin-left: 16px;
+    color: var(--text-color);
+    transition: color 0.3s ease;
 }
 
 .cute-nav a:hover {
-    text-decoration: underline;
+    color: var(--primary-color);
 }
 
 
 /* ===== Hero ===== */
 .cute-hero {
     text-align: center;
-    padding: 60px 20px;
+    padding: 90px 0;
 }
 
 .hero-title {
-    font-size: 2rem;
-    margin-bottom: 10px;
+    font-size: 2.3rem;
+    animation: softRise 1s ease;
 }
 
 .hero-text {
-    max-width: 500px;
-    margin: 0 auto 20px;
+    max-width: 600px;
+    margin: 15px auto 30px;
 }
 
 /* Soft animation */
@@ -86,9 +85,10 @@ cute-header {
 .cute-card,
 .price-card {
     background-color: var(--card-bg);
-    padding: 20px;
-    border-radius: 8px;
-    margin: 10px;
+    padding: 25px;
+    border-radius: 14px;
+    max-width: 280px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
 .cute-card:hover,
@@ -98,7 +98,7 @@ cute-header {
 }
 
 .featured {
-    border: 1px solid var(--primary-color);
+    border: 2px solid var(--primary-color);
 }
 
 /* ===== Footer ===== */
@@ -111,17 +111,23 @@ cute-header {
 }
 /* ===== Button ===== */
 .btn {
-    background-color: var(--primary-color);
-    color: white;
-    padding: 10px 20px;
-    border-radius: 6px;
-    text-decoration: none;
-    font-weight: 500;
     display: inline-block;
+    background-color: var(--primary-color);
+    color: #ffffff;
+    padding: 14px 32px;
+    border-radius: 999px; /* pill-shaped button */
+    font-size: 1rem;
+    font-weight: 600;
+    text-decoration: none;
+    box-shadow: 0 8px 16px rgba(37, 99, 235, 0.25);
+    transition: transform 0.25s ease, box-shadow 0.25s ease, background-color 0.25s ease;
 }
 
+/* Hover effect */
 .btn:hover {
-    opacity: 0.9;
+    background-color: #1d4ed8;
+    transform: translateY(-3px);
+    box-shadow: 0 12px 22px rgba(37, 99, 235, 0.35);
 }
 
 /* Active (click) effect */
@@ -131,14 +137,14 @@ cute-header {
 }
 
 :root {
-    --primary-color: #3b82f6;
-    --text-color: #e5e7eb;
-    --background-color: #111827;
-    --card-bg: #1f2937;
+    --primary-color: #60a5fa;   /* soft blue */
+    --text-color: #e5e7eb;      /* light text */
+    --background-color: #0f172a; /* dark navy */
+    --card-bg: #1e293b;         /* dark card */
 }
 
 body {
-    font-family: Arial, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     background-color: var(--background-color);
     color: var(--text-color);
     line-height: 1.6;
