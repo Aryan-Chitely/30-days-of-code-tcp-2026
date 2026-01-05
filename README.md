@@ -27,10 +27,16 @@ Task : Portfolio Styling (Core CSS Fundamentals)
 <img width="1917" height="1078" alt="Image" src="https://github.com/user-attachments/assets/03da8ef6-3807-42f8-82d7-2f5e6288a0e4" />
 <img width="1918" height="917" alt="Image" src="https://github.com/user-attachments/assets/211bbfea-71d3-4598-810b-e36cd67c9dd7" />
 <img width="1918" height="922" alt="Image" src="https://github.com/user-attachments/assets/73cd365c-b7a2-432a-99d9-ee8650c5138d" />
-
+<br><br>
 <h2>Day 4</h2>
 <br>
 Task : Responsive Product Landing Page
 <br>
 <img width="1915" height="1078" alt="Image" src="https://github.com/user-attachments/assets/98dd5bac-a9f0-4588-b49f-35f42a03ace6" />
 <img width="1918" height="923" alt="Image" src="https://github.com/user-attachments/assets/13c1dcc7-4c17-4967-82f6-44cd5a654487" />
+<br><br>
+<h2>Day 5</h2>
+<br>
+Task : Create a Tic-Tac-Toe game using JS
+<br>
+<img width="1918" height="1078" alt="Image" src="https://github.com/user-attachments/assets/f560790c-0655-43f4-bcc5-4d98295397a6" />
