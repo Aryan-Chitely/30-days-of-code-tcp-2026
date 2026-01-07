@@ -46,3 +46,9 @@ Task : Create a Tic-Tac-Toe game using JS
 Task : Solve a MCQs
 <br>
 <img width="518" height="1078" alt="Image" src="https://github.com/user-attachments/assets/c79f16cc-d19c-4d1c-a750-8b17dafa312f" />
+<br><br>
+<h2>Day 7</h2>
+<br>
+Task : Solve a LeetCode Problem.
+<br>
+<img width="1918" height="1078" alt="Image" src="https://github.com/user-attachments/assets/37f15804-f132-4b89-8746-321bccff8502" />/>
