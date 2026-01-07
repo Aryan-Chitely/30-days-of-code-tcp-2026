@@ -1,0 +1,17 @@
+class Solution {
+    public int sumOfEncryptedInt(int[] nums) {
+        int sum = 0;
+       for(int num : nums) {
+        int mul=0 , maxi=0;
+            int temp = num;
+            while(temp > 0){
+                int digi = temp % 10;
+                maxi = Math.max(maxi , digi);
+                mul = mul * 10 + 1;
+                temp /= 10;
+            }
+            sum += mul * maxi;
+        }
+        return sum;
+    }
+}
