@@ -40,3 +40,9 @@ Task : Responsive Product Landing Page
 Task : Create a Tic-Tac-Toe game using JS
 <br>
 <img width="1918" height="1078" alt="Image" src="https://github.com/user-attachments/assets/f560790c-0655-43f4-bcc5-4d98295397a6" />
+<br><br>
+<h2>Day 6</h2>
+<br>
+Task : Solve a MCQs
+<br>
+<img width="518" height="1078" alt="Image" src="https://github.com/user-attachments/assets/c79f16cc-d19c-4d1c-a750-8b17dafa312f" />
