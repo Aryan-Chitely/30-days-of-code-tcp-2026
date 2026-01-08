@@ -52,3 +52,10 @@ Task : Solve a MCQs
 Task : Solve a LeetCode Problem.
 <br>
 <img width="1918" height="1078" alt="Image" src="https://github.com/user-attachments/assets/37f15804-f132-4b89-8746-321bccff8502" />/>
+
+<br><br>
+<h2>Day 8</h2>
+<br>
+Task : Solve a LeetCode Problem.
+<br>
+<img width="1918" height="1072" alt="Image" src="https://github.com/user-attachments/assets/22bf45a5-8951-407e-9af3-16fe2ca1633d" />
