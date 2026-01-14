@@ -73,7 +73,7 @@ Task : Solve a LeetCode Problem.
 <br><br>
 <h2>Day 10</h2>
 <br>
-Task : Solve a LeetCode Problem.
+Task : Solve a GFG Problem.
 <br>
 <img width="1917" height="916" alt="Image" src="https://github.com/user-attachments/assets/89b24e96-4b14-4c56-a0af-e405a3b882cb" />
 
@@ -81,7 +81,7 @@ Task : Solve a LeetCode Problem.
 <br><br>
 <h2>Day 11</h2>
 <br>
-Task : Solve a LeetCode Problem.
+Task : Solve a GFG Problem.
 <br>
 <img width="1918" height="912" alt="Image" src="https://github.com/user-attachments/assets/b861205a-b8b3-42e9-91e4-cf384c4d0ef4" />
 
@@ -100,3 +100,10 @@ Task : Solve a LeetCode Problem.
 Task : Solve a LeetCode Problem.
 <br>
 <img width="1917" height="913" alt="Image" src="https://github.com/user-attachments/assets/5e1a89ea-980b-4903-998c-e96584d31e14" />
+
+<br><br>
+<h2>Day 14</h2>
+<br>
+Task : Solve a GFG Problem.
+<br>
+<img width="1917" height="966" alt="Image" src="https://github.com/user-attachments/assets/9a6f85e8-513f-437d-89bb-b698ca77ab2c" />
