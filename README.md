@@ -113,14 +113,30 @@ Task : Solve a GFG Problem.
 <br>
 Task : Solve a Leetcode Problem.
 <br>
-<img width="721" height="567" alt="Image" src="https://github.com/user-attachments/assets/9e4c4794-9eec-4d16-97fe-552a9f495e85" />
+<img width="1919" height="904" alt="Image" src="https://github.com/user-attachments/assets/32f4772a-0d39-4112-bfc7-20d727e8e051" />
 
 <br><br>
-<h2>Day 14</h2>
+<h2>Day 16</h2>
 <br>
 Task : Solve a Leetcode Problem.
 <br>
-<img width="1919" height="904" alt="Image" src="https://github.com/user-attachments/assets/32f4772a-0d39-4112-bfc7-20d727e8e051" />
+<img width="1919" height="961" alt="Image" src="https://github.com/user-attachments/assets/d6636ded-b101-4820-aae8-7a9c1242b417" />
+
+
+<br><br>
+<h2>Day 17</h2>
+<br>
+Task : Solve a Leetcode Problem.
+<br>
+<img width="1919" height="962" alt="Image" src="https://github.com/user-attachments/assets/752be589-a29c-49c8-a44e-788184e3870b" />
+
+
+<br><br>
+<h2>Day 18</h2>
+<br>
+Task : Solve a Leetcode Problem.
+<br>
+<img width="1919" height="1077" alt="Image" src="https://github.com/user-attachments/assets/852d5d73-4115-484b-8d36-82a9f82d4ca9" />
 
 
 
