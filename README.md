@@ -139,5 +139,11 @@ Task : Solve a Leetcode Problem.
 <img width="1919" height="1077" alt="Image" src="https://github.com/user-attachments/assets/852d5d73-4115-484b-8d36-82a9f82d4ca9" />
 
 
+<br><br>
+<h2>Day 18</h2>
+<br>
+Task : Solve a Leetcode Problem.
+<br>
+<img width="1919" height="965" alt="Image" src="https://github.com/user-attachments/assets/3ba4c093-3cb9-4cfc-bfe9-965c47134f98" />
 
 
