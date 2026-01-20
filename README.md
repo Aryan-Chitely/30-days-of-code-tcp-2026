@@ -140,10 +140,17 @@ Task : Solve a Leetcode Problem.
 
 
 <br><br>
-<h2>Day 18</h2>
+<h2>Day 19</h2>
 <br>
 Task : Solve a Leetcode Problem.
 <br>
 <img width="1919" height="965" alt="Image" src="https://github.com/user-attachments/assets/3ba4c093-3cb9-4cfc-bfe9-965c47134f98" />
+
+<br><br>
+<h2>Day 20</h2>
+<br>
+Task : Solve a Leetcode Problem.
+<br>
+<img width="1919" height="934" alt="Image" src="https://github.com/user-attachments/assets/95a7853a-718e-40ce-8208-828459e4b7bc" />
 
 
