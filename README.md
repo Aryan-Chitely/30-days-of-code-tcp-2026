@@ -167,3 +167,11 @@ Task : Solve a Leetcode Problem.
 Task : Solve a GFG Problem.
 <br>
 <img width="1910" height="915" alt="Image" src="https://github.com/user-attachments/assets/6e41c1f9-d8d0-4382-aa38-fee3c633016c" />
+
+
+<br><br>
+<h2>Day 23</h2>
+<br>
+Task : Solve a Leetcode Problem.
+<br>
+<img width="1912" height="908" alt="Image" src="https://github.com/user-attachments/assets/52266c44-ceff-4fd8-8912-a427693e9f08" />
