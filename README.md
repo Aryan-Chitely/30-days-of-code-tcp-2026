@@ -175,3 +175,20 @@ Task : Solve a GFG Problem.
 Task : Solve a Leetcode Problem.
 <br>
 <img width="1912" height="908" alt="Image" src="https://github.com/user-attachments/assets/52266c44-ceff-4fd8-8912-a427693e9f08" />
+
+
+<br><br>
+<h2>Day 24</h2>
+<br>
+Task : Solve a CodeForces Problem.
+<br>
+
+<br><br>
+<h2>Day 25</h2>
+<br>
+Task : Solve a Problem.
+<br>
+<img width="1919" height="963" alt="Image" src="https://github.com/user-attachments/assets/9826f2cf-3586-4ed8-b249-77e34b44c176" />
+
+
+
