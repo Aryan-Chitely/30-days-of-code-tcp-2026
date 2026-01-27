@@ -198,3 +198,9 @@ Task : Solve a LeetCode Problem.
 <img width="1919" height="1001" alt="Image" src="https://github.com/user-attachments/assets/e9163b21-f79b-4ae4-a134-6cca2a19be8a" />
 
 
+<br><br>
+<h2>Day 27</h2>
+<br>
+Task : Solve a Problem.
+<br>
+
