@@ -204,3 +204,12 @@ Task : Solve a LeetCode Problem.
 Task : Solve a Problem.
 <br>
 
+<br><br>
+<h2>Day 28</h2>
+<br>
+Task : Solve a LeetCode Problem.
+<br>
+<img width="1907" height="902" alt="Image" src="https://github.com/user-attachments/assets/668dacc8-9562-4813-86a1-7bdad04b189e" />
+
+
+
