@@ -212,4 +212,10 @@ Task : Solve a LeetCode Problem.
 <img width="1907" height="902" alt="Image" src="https://github.com/user-attachments/assets/668dacc8-9562-4813-86a1-7bdad04b189e" />
 
 
+<br><br>
+<h2>Day 29</h2>
+<br>
+Task : Solve a LeetCode Problem.
+<br>
+<img width="1910" height="903" alt="Image" src="https://github.com/user-attachments/assets/1693dda5-a7ed-4f35-b40f-57dfeebe8ef2" />
 
