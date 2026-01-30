@@ -219,3 +219,11 @@ Task : Solve a LeetCode Problem.
 <br>
 <img width="1910" height="903" alt="Image" src="https://github.com/user-attachments/assets/1693dda5-a7ed-4f35-b40f-57dfeebe8ef2" />
 
+
+<br><br>
+<h2>Day 30</h2>
+<br>
+Task : Solve a GFGs Problem.
+<br>
+<img width="1919" height="963" alt="Image" src="https://github.com/user-attachments/assets/4c4d3ddd-c833-4fcb-9639-f8f3b0061af5" />
+
